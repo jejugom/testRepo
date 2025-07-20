@@ -1,7 +1,7 @@
 # 🧸 jejugom-front
 
 본 레포지토리는 Vue3, Vite, TypeScript, TailwindCSS, Storybook 기반의
-프론트엔드프로젝트입니다.
+프론트엔드 프로젝트입니다.
 
 ---
 
